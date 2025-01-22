@@ -33,7 +33,7 @@ Follow these steps to run the project locally:
 Clone the repository:
 
 
-git clone https://github.com/sparshspradhan/registerkaro-homepage.git
+Git Clone - https://github.com/SparshSPradhan/register-homepage
 
 cd registerkaro-homepage
 
